@@ -12,11 +12,14 @@ Notes are organized by topic, with one Markdown file per concept:
 learning-notes/
 └── programming-basics/
     └── programming-languages.md
+└── javascript/
+    └── js-01.md
 ```
 
 ## Notes so far
 
 - [Programming Languages](./programming-basics/programming-languages.md) - the different categories of programming languages (programming, scripting, markup, style sheet, query, shell, configuration) and what each is used for. Learned from [this YouTube video](https://www.youtube.com/watch?v=rU-cW5eCF0A).
+- [JS Domination](./javascript/js-01.md) - JavaScript fundamentals, starting with variables and declarations (`var`, redeclaration & reassignment, hoisting). Still in progress, updated as I go through the lecture. Learning from [this YouTube video](https://www.youtube.com/watch?v=a-wVHL0lpb0).
 
 ## Why this exists
 
