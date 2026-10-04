@@ -1,4 +1,4 @@
-# CS50x - Lecture 1 - C
+# CS50x: Lecture 1 - C
 
 > **This is cs50!**
 
