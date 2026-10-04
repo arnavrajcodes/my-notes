@@ -1,4 +1,5 @@
 # CS50x: Lecture 0 - Scratch
+> **This is cs50!**
 
 ---
 
